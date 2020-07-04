@@ -1,0 +1,15 @@
+.avt{
+  height: auto;
+  width: 70%;
+  background-size: cover;
+  background-repeat: repeat;
+  box-shadow: 0 10px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+  margin-bottom: 10px;
+}
+
+.line{
+  height: 12px;
+  width: 100%;
+  background: #c1dcd9;
+  margin-bottom: 15px;
+}
